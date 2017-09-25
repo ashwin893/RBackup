@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\Service</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Devart.Data.dll">
+      <publishTime>01/16/2014 00:11:04</publishTime>
+    </File>
+    <File Include="bin/Devart.Data.Oracle.dll">
+      <publishTime>01/16/2014 00:11:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.Client.dll">
+      <publishTime>04/27/2016 21:25:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.Core.dll">
+      <publishTime>04/27/2016 21:25:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>08/20/2015 08:08:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Cors.dll">
+      <publishTime>04/27/2016 21:25:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Diagnostics.dll">
+      <publishTime>04/27/2016 21:25:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>04/27/2016 21:25:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.HttpListener.dll">
+      <publishTime>04/27/2016 21:25:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Hosting.dll">
+      <publishTime>04/27/2016 21:25:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>04/27/2016 21:25:34</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/27/2016 21:25:34</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>04/27/2016 21:25:34</publishTime>
+    </File>
+    <File Include="bin/RemoteEye.Service.dll">
+      <publishTime>04/28/2016 15:52:47</publishTime>
+    </File>
+    <File Include="bin/RemoteEye.Service.pdb">
+      <publishTime>04/28/2016 15:52:47</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/Simple.Data.Ado.dll">
+      <publishTime>12/10/2013 11:08:06</publishTime>
+    </File>
+    <File Include="bin/Simple.Data.dll">
+      <publishTime>12/10/2013 11:08:04</publishTime>
+    </File>
+    <File Include="bin/Simple.Data.Oracle.Devart.dll">
+      <publishTime>02/02/2014 19:36:38</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>04/27/2016 21:25:32</publishTime>
+    </File>
+    <File Include="ErmIoTService.svc">
+      <publishTime>04/28/2016 06:48:14</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/28/2016 15:18:47</publishTime>
+    </File>
+    <File Include="Service2.svc">
+      <publishTime>04/27/2016 21:25:38</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/28/2016 15:21:05</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

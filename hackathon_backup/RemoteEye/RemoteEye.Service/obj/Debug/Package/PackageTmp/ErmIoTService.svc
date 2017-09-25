@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="RemoteEye.Service.ErmIoTService" CodeBehind="ErmIoTService.svc.cs" %>
